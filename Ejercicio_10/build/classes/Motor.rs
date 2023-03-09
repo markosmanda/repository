@@ -1,0 +1,3 @@
+TipoCombustible
+Motor
+TipoCambio
